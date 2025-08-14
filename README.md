@@ -11,6 +11,8 @@ Performing descriptive and comparative analysis.
 
 Generating visualizations to understand patterns in scores.
 
+📥 Dataset Link: Students Exam Scores – Kaggle
+
 🗂 Project Workflow
 Data Loading
 
@@ -47,21 +49,7 @@ Cleaned dataset ready for analysis.
 Charts and plots showing score trends and comparisons.
 
 ⚙️ Requirements
-
-Install the dependencies with:
-
 pip install pandas numpy matplotlib seaborn
-
-▶️ Usage
-
-Download the dataset from Kaggle and place it in the project directory.
-
-Open and run the Jupyter Notebook:
-
-jupyter notebook "Project - 1.ipynb"
-
-
-View generated charts directly in the notebook.
 
 📁 Example Output Files
 
